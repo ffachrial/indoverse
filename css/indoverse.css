@@ -1,0 +1,25 @@
+header.position-absolute {
+    position: fixed;
+    top: 0;
+    width: 100%;
+
+    z-index: 2;
+}
+
+.logo img {
+    max-width: 240px;
+    position: relative;
+    top: -15px;
+}
+
+.top-nav li a {
+    color: #7697A2;
+}
+
+nav {
+    background: black;
+}
+
+header.mesin-pendingin {
+    padding-top: 0;
+}
